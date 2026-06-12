@@ -1,0 +1,20 @@
+# Working / helper files — not public
+_scratch/
+
+# Runtime-downloaded data and models (notebooks fetch these on first run)
+4.3/kitti_data/
+4.3/models/
+
+# Runtime-generated videos (the committed lidar_camera_fusion.mp4 is kept)
+4.3/videos/
+
+# Executed notebook copies / scratch outputs
+*_executed.ipynb
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
