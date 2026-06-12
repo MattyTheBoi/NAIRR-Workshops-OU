@@ -34,11 +34,11 @@ All decks live in [`slides/`](slides/):
 
 | Deck | Covers |
 |---|---|
-| `Robotics and AI Control Systems - OU Introduction.pptx` | Workshop intro |
-| `N1_Camera_Lidar_Projection_Slides.pptx` | Presentation 1 — N1 |
-| `N2_Kalman-slides.pptx` | Presentation 2 — N2 |
-| `N3_LiDAR_Object_Detection_Slides.pptx` | Presentation 2 — N3 |
-| `N4-N5_Acting_on_the_World_Slides.pptx` | Presentation 3 — N4 + N5 |
+| `P0_Introduction.pptx` | Workshop intro |
+| `P1_N1_Camera_Lidar_Projection.pptx` | Presentation 1 — N1 |
+| `P2_N2_Kalman.pptx` | Presentation 2 — N2 |
+| `P2_N3_LiDAR_Object_Detection.pptx` | Presentation 2 — N3 |
+| `P3_N4-N5_Acting_on_the_World.pptx` | Presentation 3 — N4 + N5 |
 
 ## Run order and the KITTI data dependency
 
