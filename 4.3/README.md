@@ -34,7 +34,7 @@ All decks live in [`slides/`](slides/):
 
 | Deck | Covers |
 |---|---|
-| `P0_Introduction.pptx` | Workshop intro |
+| `P0_Workshop_Intro.pptx` | Workshop intro |
 | `P1_N1_Camera_Lidar_Projection.pptx` | Presentation 1 — N1 |
 | `P2_N2_Kalman.pptx` | Presentation 2 — N2 |
 | `P2_N3_LiDAR_Object_Detection.pptx` | Presentation 2 — N3 |

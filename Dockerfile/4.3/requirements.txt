@@ -4,4 +4,6 @@ pykitti>=0.3.1
 opencv-python-headless>=4.8.0
 plotly>=5.20.0
 imageio[ffmpeg]>=2.31.0
-transformers>=4.40.0
+# Pinned <4.48: newer transformers blocks torch.load of pickle checkpoints under
+# torch <2.6 (CVE-2025-32434), and the SegFormer cityscapes ckpt has no safetensors.
+transformers==4.46.3
