@@ -38,7 +38,8 @@ All decks live in [`slides/`](slides/):
 | `P1_N1_Camera_Lidar_Projection.pptx` | Presentation 1 — N1 |
 | `P2_N2_Kalman.pptx` | Presentation 2 — N2 |
 | `P2_N3_LiDAR_Object_Detection.pptx` | Presentation 2 — N3 |
-| `P3_N4-N5_Acting_on_the_World.pptx` | Presentation 3 — N4 + N5 |
+| `P3_N4_Path_Tracking.pptx` | Presentation 3 — N4 (Path Tracking & Control) |
+| `P3_N5_Capstone.pptx` | Presentation 3 — N5 (Capstone: Navigate the Real Scene) |
 
 ## Run order and the KITTI data dependency
 
